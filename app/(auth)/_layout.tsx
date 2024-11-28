@@ -1,7 +1,5 @@
 import React from "react";
-import { ReactNode } from "react";
 import { Stack } from "expo-router";
-import SignIn from "@/app/(auth)/sign-in";
 import { StatusBar } from "expo-status-bar";
 
 export default function AuthLayout() {
